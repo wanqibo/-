@@ -6796,4 +6796,4 @@ void test(){
 	pfunc();
 }
 
-ps：参考：[c++讲义 第一部分.doc](https://blog-halo.oss-cn-guangzhou.aliyuncs.com/halo/2024/11/18/c%2B%2B%E8%AE%B2%E4%B9%89%20%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86.doc)或[c++讲义第一部分.pdf](https://blog-halo.oss-cn-guangzhou.aliyuncs.com/halo/2024/11/18/c%2B%2B%E8%AE%B2%E4%B9%89%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86.pdf)（黑马2017年C++视频）
+ps：参考：[c++讲义 第一部分.doc](https://blog-halo.oss-cn-guangzhou.aliyuncs.com/halo/2024/11/18/c%2B%2B%E8%AE%B2%E4%B9%89%20%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86.doc)或[c++讲义第一部分.pdf](https://blog-halo.oss-cn-guangzhou.aliyuncs.com/halo/2024/11/18/c%2B%2B%E8%AE%B2%E4%B9%89%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86.pdf)（黑马2017年C++视频资料）
